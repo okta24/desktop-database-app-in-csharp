@@ -1,0 +1,13 @@
+g:\anbar\anbar\bin\Debug\anbar.exe
+g:\anbar\anbar\bin\Debug\anbar.pdb
+g:\anbar\anbar\obj\x86\Debug\ResolveAssemblyReference.cache
+g:\anbar\anbar\obj\x86\Debug\anbar.Form1.resources
+g:\anbar\anbar\obj\x86\Debug\anbar.Properties.Resources.resources
+g:\anbar\anbar\obj\x86\Debug\GenerateResource.read.1.tlog
+g:\anbar\anbar\obj\x86\Debug\GenerateResource.write.1.tlog
+g:\anbar\anbar\obj\x86\Debug\anbar.exe
+g:\anbar\anbar\obj\x86\Debug\anbar.pdb
+g:\anbar\anbar\obj\x86\Debug\anbar.factor.resources
+G:\anbar\anbar\obj\x86\Debug\anbar.main.resources
+G:\anbar\anbar\obj\x86\Debug\anbar.sud.resources
+G:\anbar\anbar\obj\x86\Debug\anbar.listforush.resources
